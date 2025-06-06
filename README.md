@@ -50,7 +50,6 @@ python cli.py
 | `--markdown` | Export results to `.django_audit/report.md`                   |
 | `--json`     | Export issues to `.django_audit/problems.json`                |
 | `--sarif`    | Export SARIF for GitHub Security tab                          |
-           |
 
 ---
 
