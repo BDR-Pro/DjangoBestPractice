@@ -1,0 +1,14 @@
+# Core Dependencies
+rich>=13.0.0
+pyyaml>=6.0
+bandit>=1.7.5
+
+# Optional Features
+pyinstrument>=4.5.0        # for --profile
+python-sarif>=0.0.9        # for SARIF formatting (if using custom output)
+
+# Security autofix helpers (optional)
+requests>=2.31.0
+
+# Used internally (already installed with Python usually)
+# json, os, argparse, sys — built-in
